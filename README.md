@@ -1,2 +1,2 @@
 # NLP_Russell
-Word cloud, topic modeling and text similarity
+Natural language processing application using word cloud, topic modeling and text similarity; accompanies an article in Towards Data Science (TBD)
