@@ -1,2 +1,2 @@
 # NLP_Russell
-Word clout, topic modeling and text similarity
+Word cloud, topic modeling and text similarity
